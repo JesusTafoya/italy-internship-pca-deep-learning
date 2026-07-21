@@ -24,4 +24,4 @@ Developed during a research internship in Italy in 2020.
 ## Author
 
 Jesus Salvador Tafoya Vargas — M.Sc. Mechatronics Engineering, University of Rome Tor Vergata
-[LinkedIn] · [Email]
+[LinkedIn] · [Email] 
